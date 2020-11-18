@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\CoreModelGenerator\CoreModelGenerator\bin\Debug\netcoreapp3.1\CoreModelGenerator.deps.json
+C:\Users\User\source\repos\CoreModelGenerator\CoreModelGenerator\bin\Debug\netcoreapp3.1\CoreModelGenerator.runtimeconfig.json
+C:\Users\User\source\repos\CoreModelGenerator\CoreModelGenerator\bin\Debug\netcoreapp3.1\CoreModelGenerator.runtimeconfig.dev.json
+C:\Users\User\source\repos\CoreModelGenerator\CoreModelGenerator\bin\Debug\netcoreapp3.1\CoreModelGenerator.dll
+C:\Users\User\source\repos\CoreModelGenerator\CoreModelGenerator\bin\Debug\netcoreapp3.1\CoreModelGenerator.pdb
+C:\Users\User\source\repos\CoreModelGenerator\CoreModelGenerator\obj\Debug\netcoreapp3.1\CoreModelGenerator.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CoreModelGenerator\CoreModelGenerator\obj\Debug\netcoreapp3.1\CoreModelGenerator.AssemblyInfo.cs
+C:\Users\User\source\repos\CoreModelGenerator\CoreModelGenerator\obj\Debug\netcoreapp3.1\CoreModelGenerator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CoreModelGenerator\CoreModelGenerator\obj\Debug\netcoreapp3.1\CoreModelGenerator.dll
+C:\Users\User\source\repos\CoreModelGenerator\CoreModelGenerator\obj\Debug\netcoreapp3.1\CoreModelGenerator.pdb
+C:\Users\User\source\repos\CoreModelGenerator\CoreModelGenerator\obj\Debug\netcoreapp3.1\CoreModelGenerator.genruntimeconfig.cache
+C:\Users\User\source\repos\CoreModelGenerator\CoreModelGenerator\obj\Debug\netcoreapp3.1\CoreModelGenerator.csprojAssemblyReference.cache
