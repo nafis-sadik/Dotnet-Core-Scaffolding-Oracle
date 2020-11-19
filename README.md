@@ -26,16 +26,23 @@ This is a project for Scaffolding DBContext in Entity Framework Core from existi
 
 # Dependencies
   - Visual Studio 2019 | [Download](https://visualstudio.microsoft.com/downloads/)
-  - .Net Core 3.1 | [Download](https://dotnet.microsoft.com/download/dotnet-core/3.1) |
+  - Dotnet Core 3.1 | [Download](https://dotnet.microsoft.com/download/dotnet-core/3.1) |
 
 # How to use it?
-It's very simple. It's a C# class library targeting ***.net core 3.1.*** So Make sure you have ***.net core 3.1 or above***.
+It's very simple. It's a C# class library targeting ***.net core 3.1.*** So Makesure you have ***.net core 3.1 or above***.
 
-**Step # 1 :** Clone the repository
-**Step # 2 :** Open the solution file
-**Step # 3 :** Go to ***Tools > NuGet package manger > Package Manager Console***
-**Step # 4 :** Build the project (Optional - Just to make sure everything is lined up right)
-**Step # 5 :** Run the following Command
+**Step # 1 :** 
+    
+    Clone the repository
+**Step # 2 :** 
+    
+    Open the solution file
+**Step # 3 :** 
+
+    Go to ***Tools > NuGet package manger > Package Manager Console***
+**Step # 4 :** 
+
+    Run the following Command
 
 ```sh
 Scaffold-DbContext "User Id=[Your User Id];Password=[Your Password];Data Source=[Your Data Source];" Oracle.EntityFrameworkCore -OutputDir Models
