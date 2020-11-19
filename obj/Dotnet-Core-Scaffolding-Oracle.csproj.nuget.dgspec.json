@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\CoreModelGenerator\\CoreModelGenerator\\CoreModelGenerator.csproj": {}
+    "C:\\Users\\User\\source\\repos\\Dotnet-Core-Scaffolding-Oracle\\Dotnet-Core-Scaffolding-Oracle.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\CoreModelGenerator\\CoreModelGenerator\\CoreModelGenerator.csproj": {
+    "C:\\Users\\User\\source\\repos\\Dotnet-Core-Scaffolding-Oracle\\Dotnet-Core-Scaffolding-Oracle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\CoreModelGenerator\\CoreModelGenerator\\CoreModelGenerator.csproj",
-        "projectName": "CoreModelGenerator",
-        "projectPath": "C:\\Users\\User\\source\\repos\\CoreModelGenerator\\CoreModelGenerator\\CoreModelGenerator.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\Dotnet-Core-Scaffolding-Oracle\\Dotnet-Core-Scaffolding-Oracle.csproj",
+        "projectName": "Dotnet-Core-Scaffolding-Oracle",
+        "projectPath": "C:\\Users\\User\\source\\repos\\Dotnet-Core-Scaffolding-Oracle\\Dotnet-Core-Scaffolding-Oracle.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\CoreModelGenerator\\CoreModelGenerator\\obj\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\Dotnet-Core-Scaffolding-Oracle\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -45,23 +45,31 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "[3.1.10, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "[3.1.10, )"
             },
-            "Oracle.ManagedDataAccess": {
+            "Oracle.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[19.10.0, )"
+              "version": "[3.19.80, )"
             },
             "Oracle.ManagedDataAccess.Core": {
               "target": "Package",

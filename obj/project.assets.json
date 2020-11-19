@@ -5257,11 +5257,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Dotnet-Core-Scaffolding-Oracle\\Dotnet-Core-Scaffolding-Oracle\\Dotnet-Core-Scaffolding-Oracle.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Dotnet-Core-Scaffolding-Oracle\\Dotnet-Core-Scaffolding-Oracle.csproj",
       "projectName": "Dotnet-Core-Scaffolding-Oracle",
-      "projectPath": "C:\\Users\\User\\source\\repos\\Dotnet-Core-Scaffolding-Oracle\\Dotnet-Core-Scaffolding-Oracle\\Dotnet-Core-Scaffolding-Oracle.csproj",
+      "projectPath": "C:\\Users\\User\\source\\repos\\Dotnet-Core-Scaffolding-Oracle\\Dotnet-Core-Scaffolding-Oracle.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\Dotnet-Core-Scaffolding-Oracle\\Dotnet-Core-Scaffolding-Oracle\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\Dotnet-Core-Scaffolding-Oracle\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

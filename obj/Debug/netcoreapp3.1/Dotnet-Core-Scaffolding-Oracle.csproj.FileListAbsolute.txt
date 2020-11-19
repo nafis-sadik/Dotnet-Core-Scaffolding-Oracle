@@ -9,3 +9,15 @@ C:\Users\User\source\repos\Dotnet-Core-Scaffolding-Oracle\Dotnet-Core-Scaffoldin
 C:\Users\User\source\repos\Dotnet-Core-Scaffolding-Oracle\Dotnet-Core-Scaffolding-Oracle\obj\Debug\netcoreapp3.1\Dotnet-Core-Scaffolding-Oracle.dll
 C:\Users\User\source\repos\Dotnet-Core-Scaffolding-Oracle\Dotnet-Core-Scaffolding-Oracle\obj\Debug\netcoreapp3.1\Dotnet-Core-Scaffolding-Oracle.pdb
 C:\Users\User\source\repos\Dotnet-Core-Scaffolding-Oracle\Dotnet-Core-Scaffolding-Oracle\obj\Debug\netcoreapp3.1\Dotnet-Core-Scaffolding-Oracle.genruntimeconfig.cache
+C:\Users\User\source\repos\Dotnet-Core-Scaffolding-Oracle\bin\Debug\netcoreapp3.1\Dotnet-Core-Scaffolding-Oracle.deps.json
+C:\Users\User\source\repos\Dotnet-Core-Scaffolding-Oracle\bin\Debug\netcoreapp3.1\Dotnet-Core-Scaffolding-Oracle.runtimeconfig.json
+C:\Users\User\source\repos\Dotnet-Core-Scaffolding-Oracle\bin\Debug\netcoreapp3.1\Dotnet-Core-Scaffolding-Oracle.runtimeconfig.dev.json
+C:\Users\User\source\repos\Dotnet-Core-Scaffolding-Oracle\bin\Debug\netcoreapp3.1\Dotnet-Core-Scaffolding-Oracle.dll
+C:\Users\User\source\repos\Dotnet-Core-Scaffolding-Oracle\bin\Debug\netcoreapp3.1\Dotnet-Core-Scaffolding-Oracle.pdb
+C:\Users\User\source\repos\Dotnet-Core-Scaffolding-Oracle\obj\Debug\netcoreapp3.1\Dotnet-Core-Scaffolding-Oracle.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Dotnet-Core-Scaffolding-Oracle\obj\Debug\netcoreapp3.1\Dotnet-Core-Scaffolding-Oracle.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Dotnet-Core-Scaffolding-Oracle\obj\Debug\netcoreapp3.1\Dotnet-Core-Scaffolding-Oracle.AssemblyInfo.cs
+C:\Users\User\source\repos\Dotnet-Core-Scaffolding-Oracle\obj\Debug\netcoreapp3.1\Dotnet-Core-Scaffolding-Oracle.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Dotnet-Core-Scaffolding-Oracle\obj\Debug\netcoreapp3.1\Dotnet-Core-Scaffolding-Oracle.dll
+C:\Users\User\source\repos\Dotnet-Core-Scaffolding-Oracle\obj\Debug\netcoreapp3.1\Dotnet-Core-Scaffolding-Oracle.pdb
+C:\Users\User\source\repos\Dotnet-Core-Scaffolding-Oracle\obj\Debug\netcoreapp3.1\Dotnet-Core-Scaffolding-Oracle.genruntimeconfig.cache
