@@ -36,7 +36,7 @@ It's very simple. It's a C# class library targeting ***.net core 3.1.*** So Make
     Clone the repository
 **Step # 2 :** 
     
-    Open the solution file
+    Open the solution file (Recommended with Visual Studio 2019)
 **Step # 3 :** 
 
     Go to ***Tools > NuGet package manger > Package Manager Console***
