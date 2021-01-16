@@ -56,6 +56,6 @@ MIT
 
 **Free Software, Hell Yeah!**
 
-***Tools I used that might also help you!***
+***Tools I used to create this read me. Might also help you!***
 [Shields IO](https://shields.io)
 [Dillinger](https://dillinger.io)
