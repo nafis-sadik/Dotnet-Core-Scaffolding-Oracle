@@ -1,7 +1,6 @@
 # Scaffolding Oracle Database with Dotnet Core 
 
 ![Framework](https://img.shields.io/badge/framework-.net%20core%20v3.1-green)
-
 ![Database](https://img.shields.io/badge/Database-Oracle-brightgreen)
 
 # About This
