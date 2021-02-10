@@ -6,13 +6,6 @@
 This is a project for Scaffolding DBContext in Entity Framework Core from existing oracle database.
 
 # NuGet Packages
-  - Microsoft.EntityFrameworkCore v3.1.10
-  - Microsoft.EntityFrameworkCore.Design v3.1.10
-  - Microsoft.EntityFrameworkCore.Relational v3.1.10
-  - Microsoft.EntityFrameworkCore.Relational.Design v1.1.6
-  - Microsoft.EntityFrameworkCore.Tools v3.1.10
-  - Oracle.EntityFrameworkCore v3.19.80
-  - Oracle.ManagedDataAccess.Core v2.19.100
   
 | NuGet Packages | Version |
 | ------ | ------ |
